@@ -2,9 +2,11 @@ package day1;
 
 public class Addition {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public static void main(String[] args) 
+	{
+      int a = 12;
+      int b = 30;
+      System.out.println(a+b);
 	}
 
 }
