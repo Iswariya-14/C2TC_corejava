@@ -9,9 +9,8 @@ public class Execute {
 		p.setName("ishu");
 		p.setAge(21);
 		p.setCity("pondy");
-		//System.out.println(p);
-		System.out.println();
-
+		System.out.println(p);
+		//System.out.println();
 	}
 
 }

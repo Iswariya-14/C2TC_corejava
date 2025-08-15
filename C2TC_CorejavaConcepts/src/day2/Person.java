@@ -36,12 +36,9 @@ public String getCity() {
 public void setCity(String city) {
 	this.city = city;
 }
-
 @Override
 public String toString() {
-	// TODO Auto-generated method stub
-	return super.toString();
+    return "ID: " + id + ", Name: " + name + ", Age: " + age + ", City: " + city;
 }
-  
-  
+    
 }
